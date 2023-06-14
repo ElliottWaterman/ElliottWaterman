@@ -1,37 +1,37 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - [`Compax One™`][company-link] - A smart waste bin
-- 🌱 I’m currently learning: 
-  - `ESP-IDF` [<img width="30px" src="https://domoticx.com/wp-content/uploads/2016/12/ESP32-chip-icon.png"/>][esp-idf-link]
-  - `FreeRTOS` [<img height="29.7px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Freertos.svg/1200px-Freertos.svg.png"/>][freertos-link]
-  - `C++` <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"/>
-- 🤔 I’m looking for help with: 
-  - `Embedded programming` - hints and tips, best practices
+  - [`Blue Ocean Seismic Services`][company-link] - An autonomous underwater vehicle
+- 🌱 I’m currently learning:
+  - `STM32` [<img height="32px" src="images/stm32.svg" />][stm32-link]
+  - `FreeRTOS` [<img height="32px" src="images/FreeRTOS.svg" />][freertos-link]
+  - `C++` <img height="32px" src="images/cpp.svg" />
+- 🤔 I’m looking for help with:
+  - `Embedded programming` - architecture, hints, tips, and best practices
   - `C++`
-- ⚡ Fun facts:
-  - I have played Guitar for many years and like to muck around on the drums
-  - I play these games: Heroes of the Storm and Apex Legends
+- 💬 Ask me about:
+  - `ESP32 and ESP-IDF` [<img height="32px" src="images/esp32.svg" />][esp-idf-link]
 
 <br>
 
----
-
-<br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ElliottWaterman&theme=dracula&hide_border=true&show_icons=true&count_private=true"/>
-<br>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ElliottWaterman&theme=dracula&hide_border=true&show_icons=true&count_private=true"/> -->
+
+<!-- <br> -->
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElliottWaterman&theme=dracula&hide_border=true&hide=C%23,ShaderLab&card_width=495"/>
+
 </p>
 
 <br>
 
-
 <!-- Links -->
-[company-link]: https://www.compax.no/ "Compax Solutions website"
-[esp-idf-link]: https://github.com/espressif/esp-idf "ESP-IDF"
+[company-link]: https://www.blueoceanseismic.com/ "Blue Ocean Seismic Services website"
+[stm32-link]: https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html "STM32"
 [freertos-link]: https://www.freertos.org/ "FreeRTOS"
+[esp-idf-link]: https://github.com/espressif/esp-idf "ESP-IDF"
 
 <!--
 **ElliottWaterman/ElliottWaterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
