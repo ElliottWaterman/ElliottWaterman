@@ -1,16 +1,22 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - [`Blue Ocean Seismic Services`][company-link] - An autonomous underwater vehicle
+  - `Matter Thermostat` by [`Schneider Electric`][company-link] - A smart home device
+  - `Animal Tracker` using ESP32, LoRa, GNSS, IMU and Magnetometer (AHRS / MARG)
+
 - 🌱 I’m currently learning:
+  - `SiWG917` and `EFR32MG24` microcontrollers and Silicon Labs ecosystem (Simplicity SDK, WiSeConnect SDK) [<img height="32px" src="images/Silicon_Labs.svg" />][siwg917-link]
+
+- 🤔 I’m looking for help with:
+  - `Embedded Programming` - architecture, hints, tips, and best practices
+  - `Electronics Design` - hints, tips, and best practices
+  - `C++` -  modern features
+
+- 💬 Ask me about:
+  - `Espressif`, `ESP32` microcontrollers and `ESP-IDF` [<img height="32px" src="images/esp32.svg" />][esp-idf-link]
   - `STM32` [<img height="32px" src="images/stm32.svg" />][stm32-link]
   - `FreeRTOS` [<img height="32px" src="images/FreeRTOS.svg" />][freertos-link]
   - `C++` <img height="32px" src="images/cpp.svg" />
-- 🤔 I’m looking for help with:
-  - `Embedded programming` - architecture, hints, tips, and best practices
-  - `C++`
-- 💬 Ask me about:
-  - `ESP32 and ESP-IDF` [<img height="32px" src="images/esp32.svg" />][esp-idf-link]
 
 <br>
 
@@ -28,7 +34,8 @@
 <br>
 
 <!-- Links -->
-[company-link]: https://www.blueoceanseismic.com/ "Blue Ocean Seismic Services website"
+[company-link]: https://www.se.com/uk/en/home/smart-home/wiser/homeowner.jsp "Schneider Electric Wiser website"
+[siwg917-link]: https://www.silabs.com/wireless/wi-fi/siwx917-wireless-socs "SiWx917"
 [stm32-link]: https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html "STM32"
 [freertos-link]: https://www.freertos.org/ "FreeRTOS"
 [esp-idf-link]: https://github.com/espressif/esp-idf "ESP-IDF"
